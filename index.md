@@ -15,7 +15,10 @@ The objective of the material is to give the engineers a short introduction to t
 
 ## Roadmap:
 
-Top Ten Campaign - Q1 2022
-What is AppSec Poster - Q1/Q2 2022
-Proactive Controls Campaign - Q2/Q3 2022
+- Top Ten Campaign - Q1 2022
+
+- What is AppSec Poster - Q1/Q2 2022
+
+- Proactive Controls Campaign - Q2/Q3 2022
+
 ...
