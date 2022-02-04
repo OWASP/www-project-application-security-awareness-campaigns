@@ -2,21 +2,20 @@
 
 layout: col-sidebar
 title: OWASP Application Security Awareness Campaigns
-tags: example-tag
+tags: awareness posters
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: documentation
+pitch: Application Security Awareness posters, email templates and other material for creating awareness campaigns for your engineers.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+>The Application Security Awareness Campaigns will make available sets of posters that can be put up around your office and email templates that introduce your engineers to numerous different security topics and offer links to where they can learn more.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The objective of the material is to give the engineers a short introduction to the topic that will leave them wanting to learn more about it and point them to where they can get more info. The posters or templates should be both eye catching and informative.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Roadmap:
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+Top Ten Campaign - Q1 2022
+What is AppSec Poster - Q1/Q2 2022
+Proactive Controls Campaign - Q2/Q3 2022
+...
