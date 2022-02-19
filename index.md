@@ -23,24 +23,18 @@ You could also reinforce the message with the people who have already read the p
 
 - Top Ten Campaign
 
-<span style="margin-left:auto;margin-right:auto;">
+
 
 ![2021 Top Ten Overview][2]
 
-</span>
 
-<span style="margin-left:auto;margin-right:auto;">
-
-|  |  |  |
 | :-: | :-: | :-: |
 | ![Top Ten A01:2021][3] |  | ![Top Ten A02:2021][4] |
 | ![Top Ten A03:2021][5] |  | ![Top Ten A04:2021][6] |
 | ![Top Ten A05:2021][7] |  | ![Top Ten A06:2021][8] |
 | ![Top Ten A07:2021][9] |  | ![Top Ten A08:2021][10] |
 | ![Top Ten A09:2021][11] |  | ![Top Ten A10:2021][12] |
-|  |  |  |
 
-</span>
 
     The posters and email templates are available [here][1] for download
 
