@@ -36,7 +36,7 @@ You could also reinforce the message with the people who have already read the p
 | ![Top Ten A09:2021][11] |  | ![Top Ten A10:2021][12] |
 
 
-    The posters and email templates are available [here][1] for download
+The posters and email templates are available [here][1] for download
 
 - What is AppSec Poster - Q1/Q2 2022
 
