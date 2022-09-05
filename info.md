@@ -10,9 +10,10 @@
 * [Meetup](#)
 
 ### Code Repository
-* [repo](#)
+* [repo][2]
 
 ### Change Log
 * [changes](#)
 
-[1]:./assets/top_ten_campaigns.zip
+[1]:./assets/top_ten_campaign.zip
+[2]:https://github.com/OWASP/www-project-application-security-awareness-campaigns
