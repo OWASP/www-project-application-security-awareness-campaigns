@@ -39,9 +39,9 @@ You could also reinforce the message with the people who have already read the p
 
 The posters and email templates are available [here][1] for download
 
-- What is AppSec Poster - Q1/Q2 2022
+- What is AppSec Poster - Coming this week!
 
-- Proactive Controls Campaign - Q2/Q3 2022
+- Proactive Controls Campaign - Q4 2022
 
 ...
 
