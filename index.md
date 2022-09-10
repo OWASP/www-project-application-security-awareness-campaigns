@@ -52,7 +52,7 @@ The AppSec poster and email template is available [here][26] for download
 
 Acknowledgements:
 
-Thanks to Sabrina Colombo for all her help with the graphics and to Zuhal Vargun for reviewing the content of the posters.
+Thanks to Sabrina Colombo for all her help with the graphics and to Zuhal Vargun and Paul Mead for reviewing the content of the posters.
 
 Thanks also to the OWASP Top Ten team including: 
 
