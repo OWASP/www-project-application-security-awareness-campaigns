@@ -39,7 +39,12 @@ You could also reinforce the message with the people who have already read the p
 
 The posters and email templates are available [here][1] for download
 
-- What is AppSec Poster - Coming this week!
+
+- AppSec Application Security
+
+[![AppSec Application Security][24]][25]
+
+The AppSec poster and email template is available [here][26] for download
 
 - Proactive Controls Campaign - Q4 2022
 
@@ -82,3 +87,6 @@ for their content which is quoted and referrenced in the Top Ten Campaign.
 [21]:./assets/images/top_ten/08.jpg "A08:2021"
 [22]:./assets/images/top_ten/09.jpg "A09:2021"
 [23]:./assets/images/top_ten/10.jpg "A10:2021"
+[24]:./assets/images/thumbnails/sec_roles/appsec.jpg "AppSec"
+[25]:./assets/images/sec_roles/appsec.jpg "AppSec"
+[26]:./assets/appsec.zip
