@@ -21,9 +21,14 @@ You could also reinforce the message with the people who have already read the p
 
 ## Roadmap:
 
+- AppSec Application Security
+
+[![AppSec Application Security][24]][25]
+
+The AppSec poster and email template is available [here][26] for download
+
+
 - Top Ten Campaign
-
-
 
 [![2021 Top Ten Overview][2]][13]
 
@@ -38,13 +43,6 @@ You could also reinforce the message with the people who have already read the p
 
 
 The posters and email templates are available [here][1] for download
-
-
-- AppSec Application Security
-
-[![AppSec Application Security][24]][25]
-
-The AppSec poster and email template is available [here][26] for download
 
 - Proactive Controls Campaign - Q4 2022
 
