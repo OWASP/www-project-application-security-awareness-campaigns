@@ -62,6 +62,9 @@ Thanks also to the OWASP Top Ten team including:
 
 for their content which is quoted and referrenced in the Top Ten Campaign.
 
+### Licensing
+📑 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License][27].
+
 [1]: ./assets/top_ten_campaign.zip
 [2]:./assets/images/thumbnails/top_ten/00.jpg "Overview"
 [3]:./assets/images/thumbnails/top_ten/01.jpg "A01:2021"
@@ -88,3 +91,4 @@ for their content which is quoted and referrenced in the Top Ten Campaign.
 [24]:./assets/images/thumbnails/sec_roles/appsec.jpg "AppSec"
 [25]:./assets/images/sec_roles/appsec.jpg "AppSec"
 [26]:./assets/appsec.zip
+[27]:./license.md
