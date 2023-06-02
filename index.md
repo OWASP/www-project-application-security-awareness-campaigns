@@ -91,4 +91,4 @@ for their content which is quoted and referrenced in the Top Ten Campaign.
 [24]:./assets/images/thumbnails/sec_roles/appsec.jpg "AppSec"
 [25]:./assets/images/sec_roles/appsec.jpg "AppSec"
 [26]:./assets/appsec.zip
-[27]:./license.md
+[27]:https://github.com/OWASP/www-project-application-security-awareness-campaigns/blob/main/license.md
