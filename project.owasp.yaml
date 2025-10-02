@@ -1,0 +1,20 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Brett Crawley
+    email: brett.crawley@owasp.org
+    github: BrettCrawley
+level: 2
+name: OWASP Application Security Awareness Campaigns
+pitch: Application Security Awareness posters, email templates and other material for creating awareness campaigns for your engineers.
+repositories:
+  - name: www-project-application-security-awareness-campaigns
+    url: https://github.com/OWASP/www-project-application-security-awareness-campaigns
+    description: OWASP Foundation Web Repository
+tags:
+  - awareness
+  - posters
+  - custom-tag-1
+type: documentation
+website: https://owasp.org/www-project-application-security-awareness-campaigns
